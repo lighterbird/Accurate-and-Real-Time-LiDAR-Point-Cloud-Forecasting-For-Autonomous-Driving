@@ -40,7 +40,7 @@ python run.py --dataset "" --processeddatapath "" --model ""
 ### 3. Evaluation
 Following is the link to the trained checkpoints for both model1 and model2 on both kitti and nuscenes dataset:  
 
-[Link to Checkpoints](https://drive.google.com/drive/folders/1OCGuoMm5GHeAfnrWXcje90QQN0ZLtoqz?usp=drive_link)
+[Link to Checkpoints](https://drive.google.com/drive/folders/0BxAelcIYrKLMflBUTDdQLUNMRUM3cEJBVmw1ZjRFeFM4NTFqeGQ3MUxZS01KeWpwWnFQU1U?resourcekey=0-cmLjTZXl4tGQi60484uzCw&usp=drive_link)
 
 
 To evaluate a model on a dataset, run `run.py` with the following arguments  
